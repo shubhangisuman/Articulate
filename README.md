@@ -1,4 +1,4 @@
-# Articulate - A blogging platform.
+# Articulate - A blogging website.
 - Create an account / Login to your account. 
 - Write, Post, Edit and Like Articles. 
 - Tag your articles to keywords. 
